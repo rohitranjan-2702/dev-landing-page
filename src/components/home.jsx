@@ -12,7 +12,7 @@ const Home = () => {
           <nav class="flex justify-between">
             <a href="#" class="font-poppins font-semibold p-4 text-white text-[38px]">JD</a>
             <ul class="flex mt-8 mr-8">
-                <li><a href="/home" class="px-4 py-2 font-poppins text-white hover:text-white">Home</a></li>
+                <li><a href="/" class="px-4 py-2 font-poppins text-white hover:text-white">Home</a></li>
                 <li><a href="/portfolio" class="px-4 py-2 font-poppins text-greyy hover:text-white">Portfolio</a></li>
             </ul>
           </nav>
@@ -74,10 +74,10 @@ const Home = () => {
     <footer class="container py-4 mt-10">
       <p class="flex justify-center text-gray">
       Designed and Developed by 
-      <a href="#" class="ml-1 mr-1 hover:text-blue-500">RoHiT </a>
+      <a href="https://github.com/rohitranjan-2702" class="ml-1 mr-1 hover:text-blue-500">RoHiT </a>
       
       & 
-     <a href="#" class="ml-1 hover:text-blue-500">Saad</a> 
+     <a href="https://github.com/mohammadshaad" class="ml-1 hover:text-blue-500">Saad</a> 
       </p>
     </footer>
 
