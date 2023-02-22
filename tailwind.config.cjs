@@ -9,6 +9,9 @@ module.exports = {
       fontSize: {
         
       },
+      scale: {
+        '115': '1.15',
+      },
       colors: {
         blackk: '#000814',
         bluee: '#012852',

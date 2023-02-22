@@ -3,9 +3,9 @@ import React from "react";
 function skills() {
   return (
     <>
-      <div class="flex flex-col items-center justify-center font-light w-full h-full">
+      <div class="flex flex-col items-center justify-center font-light m-10">
         <div class="flex h-auto w-auto flex-wrap items-start justify-start rounded-2xl border border-gray-400 bg-gray-600 pl-2 text-white">
-          <h1 class="p-2 font-normal text-2xl">Skills</h1>
+          <h1 class="p-2 font-normal text-2xl">Skills:</h1>
           <br />
           <div class="flex h-auto w-auto flex-wrap items-start justify-start">
             <div
