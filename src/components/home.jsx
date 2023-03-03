@@ -46,7 +46,7 @@ const Home = () => {
               
             </div>
             <div className="lg:w-1/2 flex flex-wrap">
-              <h1 className="font-poppins text-4xl mb-1 text-white title">{about[0].name}</h1>
+              <h1 className="font-poppins text-4xl mb-1 font-medium text-white title">{about[0].name}</h1>
               <p className="font-poppins font-[300] text-2xl text-white mb-3">{about[0].bio}</p>
               <p className="w-[550px] font-poppins font-[200] text-white mb-4 ">{about[0].about} </p>
               <button type="button" className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-1 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 shadow-lg shadow-blue-500/50 dark:shadow-lg dark:shadow-blue-800/80 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2" onClick={() => navigate(console.log("ok"))}> Resume </button>
