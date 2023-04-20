@@ -12,8 +12,8 @@ const Project = () => {
           <nav class="flex justify-between">
             <a href="/" class="font-poppins font-semibold p-4 text-white text-[38px]">DEV</a>
             <ul class="flex mt-8 mr-8">
-                <li><a href="/" class="px-4 py-2 font-poppins text-white hover:text-white" onClick={() => navigate("/")}>Home</a></li>
-                <li><a href="/portfolio" class="px-4 py-2 font-poppins text-greyy hover:text-white " onClick={() => navigate("/portfolio")}>Portfolio</a></li>
+                <li><a href="/" class="px-4 py-2 font-poppins text-greyy hover:text-white" onClick={() => navigate("/")}>Home</a></li>
+                <li><a href="/portfolio" class="px-4 py-2 font-poppins text-white hover:text-white " onClick={() => navigate("/portfolio")}>Portfolio</a></li>
             </ul>
           </nav>
         </div>
