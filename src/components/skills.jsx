@@ -4,15 +4,6 @@ import { techstack } from "../data";
 
 function skills() {
   // const [icon, setIcon] = useState("");
-  const renderIcon = () => {
-    for (let i = 0; i < techstack.length; i++) {
-      if (techstack[i] === tag[i].id) {
-        // setIcon(tag[i].iconURL);
-        let URL = tag[i].iconURL;
-        return URL;
-      }
-    }
-  };
 
   // useEffect(() => {
   //   renderIcon();
@@ -28,18 +19,17 @@ function skills() {
           <br />
           <div class="flex h-auto w-auto flex-wrap items-start justify-start">
             {techstack.map((dataObj, index) => {
-              renderIcon();
+              const url = tag[dataObj];
+              console.log(url);
               return (
-                <>
-                  <div
-                    class="m-4 ml-2 flex px-4 py-2 w-fit items-center justify-center rounded-full bg-opacity-10 bg-skillbg border hover:bg-opacity-20 cursor-pointer"
-                    id="html"
-                  >
-                    <img src={URL} alt="" class="mr-2 h-[20px]" />
+                <div
+                  class="m-4 ml-2 flex px-4 py-2 w-fit items-center justify-center rounded-full bg-opacity-10 bg-skillbg border hover:bg-opacity-20 cursor-pointer"
+                  key={dataObj}
+                >
+                  <img src={url} alt="" class="mr-2 h-[20px]" />
 
-                    <span class="text-sm">{dataObj}</span>
-                  </div>
-                </>
+                  <span class="text-sm">{dataObj}</span>
+                </div>
               );
             })}
           </div>
