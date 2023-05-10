@@ -29,5 +29,7 @@ A beautiful designed landing page for you. Easy to use. Modern UI with your proj
 [] Customise the theme 
 [] 
 
+[![All Contributors](https://img.shields.io/github/all-contributors/rohitranjan-2702/dev-landing-page?color=ee8449&style=flat-square)](#contributors)
+
 api Calls
 https://api.countapi.xyz/info/emojipedia.onrender.com 
