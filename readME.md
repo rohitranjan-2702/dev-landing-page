@@ -25,11 +25,6 @@ A beautiful designed landing page for you. Easy to use. Modern UI with your proj
 
 ![https://res.cloudinary.com/dlmgrochr/image/upload/v1676728460/Home_Page_1_prztpk.png](https://res.cloudinary.com/dlmgrochr/image/upload/v1676728460/Home_Page_1_prztpk.png)
 
-[] Add cards to display github projects through json
-[] Customise the theme 
-[] 
-
 [![All Contributors](https://img.shields.io/github/all-contributors/rohitranjan-2702/dev-landing-page?color=ee8449&style=flat-square)](#contributors)
 
-api Calls
-https://api.countapi.xyz/info/emojipedia.onrender.com 
+
