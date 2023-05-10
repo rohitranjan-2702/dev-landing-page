@@ -1,14 +1,46 @@
 
-# DEV landing page
 
-### By developers, for developers.
+<h1 align=center> DEV Landing Page </h1>
 
-A beautiful designed landing page for you. Easy to use. Modern UI with your projects and github repo links.
+<h3 align=center> By developers, for developers 💙 </h3>
 
-### How to use?
+<p align="center">
+A beautiful designed landing page for you. Easy to use. Modern UI with your projects and github repo links. </p>
+
+## Tech Stacks used 💻
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<br>
+
+<h2 align='center'> Project maintainers </h2>
+<table align='center'>
+<tr>
+ <td align="center">
+        <a href="https://github.com/rohitranjan-2702">
+            <img src="https://avatars.githubusercontent.com/u/68217537?v=4" width="100;" alt="Rohit"/>
+            <br />
+            <sub><b>Rohit Ranjan Singh</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mohammadshaad">
+            <img src="https://avatars.githubusercontent.com/u/89409389?v=4" width="100;" alt="Shaad"/>
+            <br />
+            <sub><b>Md. Shaad</b></sub>
+        </a>
+    </td>
+  </tr>
+</table>
+
+## 🔍 How to Contribute
+
 
 1. Fork the repository.
-2. Make changes in the file src/data.js
+
+ 2. Make changes in the file `src/data.js`
 
 ![https://res.cloudinary.com/dlmgrochr/image/upload/v1677820786/Screenshot_2023-03-03_104802_f7o0at.png](https://res.cloudinary.com/dlmgrochr/image/upload/v1677820786/Screenshot_2023-03-03_104802_f7o0at.png)
 
@@ -21,10 +53,7 @@ A beautiful designed landing page for you. Easy to use. Modern UI with your proj
 
 ![https://res.cloudinary.com/dlmgrochr/image/upload/v1677820966/Screenshot_2023-03-03_104157_bqeiaf.png](https://res.cloudinary.com/dlmgrochr/image/upload/v1677820966/Screenshot_2023-03-03_104157_bqeiaf.png)
 
-### Sneak Peek
 
-![https://res.cloudinary.com/dlmgrochr/image/upload/v1676728460/Home_Page_1_prztpk.png](https://res.cloudinary.com/dlmgrochr/image/upload/v1676728460/Home_Page_1_prztpk.png)
 
 [![All Contributors](https://img.shields.io/github/all-contributors/rohitranjan-2702/dev-landing-page?color=ee8449&style=flat-square)](#contributors)
-
 
