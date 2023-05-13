@@ -3,7 +3,7 @@ import { useState } from "react";
 import { links } from '../../../utils/data'
 
 const linkStyles = "py-2 font-poppins text-greyy hover:text-white";
-const buttonStyles = `
+export const buttonStyles = `
 	text-white font-medium rounded-lg text-sm text-center
 	bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 
 	hover:bg-gradient-to-br 

@@ -33,27 +33,40 @@ export const links = {
 	}
 };
 
-// Add your tech stack below
-export const techStack = [
-  "html",
-  "css",
-  "reactjs",
-  "graphsql",
-  "figma",
-  "firebase",
-  "mongodb",
-  "nodejs",
-  "adobexd",
-  "python",
-];
+// Copy your tech stack below
+  // "HTML",
+  // "CSS",
+  // "REACTJS",
+  // "GRAPHSQL",
+  // "FIGMA",
+  // "FIREBASE",
+  // "MONGODB",
+  // "NODEJS",
+  // "ADOBEXD",
+  // "PYTHON",
+
 
 // Add your projects below
 export const projects = [
   {
-    projectIndex: 1,
     title: "Project ALPHA",
-    description: "lorem Ips",
+    description: "lorem Ips lorem Ips lorem Ips lorem Ips lorem Ips lorem Ips lorem Ips lorem Ips lorem Ips lorem Ips",
     demoUrl: "#",
     repoUrl: "#",
+		techStack: ['HTML', 'CSS', 'FIREBASE']
+  },
+	{
+    title: "Project BETA",
+    description: "lrem Ips lorem Ips lorem Ips lorem Ips lorem Ips lorem Ips",
+    demoUrl: "#",
+    repoUrl: "#",
+		techStack: ['REACTJS', 'ADOBEXD', 'MONGODB', 'NODEJS']
+  },
+	{
+    title: "Project KAPPA",
+    description: "lrem Ips lorem Ips lorem Ips lorem Ips lorem Ips lorem Ips Ips lorem Ips lorem Ips lorem Ips lorem Ips  Ips lorem Ips lorem Ips lorem Ips lorem Ips",
+    demoUrl: "#",
+    repoUrl: "#",
+		techStack: ['REACTJS', 'FIGMA', 'MONGODB', 'GRAPHSQL']
   },
 ];
