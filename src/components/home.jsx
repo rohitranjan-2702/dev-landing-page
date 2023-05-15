@@ -47,7 +47,7 @@ const Home = () => {
             <div className="flex flex-col lg:flex-row items-center">
               <div className="lg:w-1/2 grid place-items-center">
                 <img
-                  src={MpfpRandom}
+                  src={about[0].pfp}
                   alt="logo"
                   className="drop-shadow-xl h-[290px] lg:mb-[-45px] "
                 />

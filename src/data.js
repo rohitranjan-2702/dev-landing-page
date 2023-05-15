@@ -6,6 +6,7 @@ export const about = [
     bio: "DevRel at ClueLess | Hacktoberfest’22 ",
     about:
       "Passionate full-stack developer and UI designer. Love to explore new techs and make cool websites. ",
+    pfp:"./src/assets/MpfpRandom.png"
   },
 ];
 
