@@ -175,7 +175,7 @@ const Home = () => {
               href="https://github.com/mohammadshaad"
               className="ml-1 hover:text-blue-500"
             >
-              Saad
+              Shaad
             </a>
           </p>
         </footer>
