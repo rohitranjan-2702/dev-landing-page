@@ -57,3 +57,8 @@ A beautiful designed landing page for you. Easy to use. Modern UI with your proj
 
 [![All Contributors](https://img.shields.io/github/all-contributors/rohitranjan-2702/dev-landing-page?color=ee8449&style=flat-square)](#contributors)
 
+## ❤️ Support  
+A simple star to this project repo is enough to keep me motivated on this project for days. If you find your self very much excited with this project let me know with a tweet.
+
+If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/rohit_ranjan27).
+
