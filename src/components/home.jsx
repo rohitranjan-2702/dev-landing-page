@@ -8,7 +8,7 @@ const Home = () => {
   const navigate = useNavigate();
   return (
     <>
-      <div className="bg-gradient-to-b from-blackk to-bluee">
+      <div className="bg-gradient-to-b h-screen from-blackk to-bluee">
         <header>
           <div className="container mx-auto py-4">
             <nav className="flex justify-between">
