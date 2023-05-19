@@ -116,4 +116,4 @@ Follow the link to contribute to Dev Landing Page - [CONTRIBUTING.md](./CONTRIBU
 
 A simple star to this Project Repo is enough to keep us motivated on this project for days. If you find yourself very much excited about this project let us know with a tweet.
 
-If you have any questions, feel free to reach out to the Maintainers on  [Twitter](https://twitter.com/rohit_ranjan27).
+If you have any questions, feel free to reach out to the Maintainers on  [Twitter](https://twitter.com/rohit_ranjan2
