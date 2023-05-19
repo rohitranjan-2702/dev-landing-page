@@ -1,88 +1,111 @@
-# TO CONTRIBUTE
+# 🪛 Want to contribute?
 
-## A) Prerequisites
+We welcome you to join us!
 
-> 1. You must have the latest version of git installed and Node.js installed on your local machine (PC).
->    If not, then download and install git and Node.js from
->    https://gitscm.com/downloads
->    https://nodejs.org/en
-> 2. To check if the git has been properly installed type git -v and node --version in your Command Prompt/terminal.
-> 3. Basic git idea of git and git commands.
+- **Dev Landing Page** is an open-source project, and we are excited to hear your thoughts and ideas.
 
-## B) How to Contribute to the Project
+- Fork this repository, add your contributions and submit a PR.
 
-#### There are three processes involved in contributing to the Project
+- Found a bug? Accessibility issue? Or do you want to add a new tool to our database? Then go right ahead and create an issue.
 
-1. Setting Up the Project on your Local PC
-2. Making changes to the Project
-3. Creating a Pull Request for your changes
+# 🛠️ Tech Stack
 
-### 1) Setting Up the Project on your Local PC
+This project uses: <br><br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-Main Project - (will have Main URL from Code Button on https://github.com/rohitranjan-2702/dev-landing-page )
-Forked Project - (will have Forked URL from Code Button on your GitHub Account)
+## Prerequisites
 
-For setting up the Project on your Local PC, the following steps should be followed
+Before installation, you need to have installed/knowledge of the following:
+<br><br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### 1.1) Fork the Project Repo on your GitHub Account
+## STAR THE REPO
 
-- Go to https://github.com/rohitranjan-2702/dev-landing-page and click on the fork button in the top right corner
+### How to Contribute to this repository
 
-- It will take you Create a new fork page
+1. Fork the repository (Click the Fork button in the top right of this page, and click your Profile Image)
 
-- Add the Own Repository Name <Forked Repo Name> and Description, then click on copy the master branch only then proceed to Create Fork
+2. Clone the forked repository to your local machine.
 
-- It will take you to your GitHub Account where you have forked the project
+```markdown
+git clone https://github.com/your-username/dev-landing-page.git
+```
 
-#### 1.2) Cloning the Project on your Local Machine (PC)
+3. change the present working directory
 
-You have already forked (made a copy) the Main Project on Your GitHub Account, now it's time to make a copy on Your PC
+```markdown
+cd dev-landing-page.git
+```
 
-- Open your PC, Create a New Folder on Your PC name it by your Convention
+4. Open CMD in your current directory and install node packages using command.[If node js is not installed, you can install it by clicking on this link to [node js](https://nodejs.org/en)]
 
-- Go to the forked repo on your GitHub Account
+```markdown
+npm i
+```
 
-> Here example https://github.com/Shash-cre-dev/Open-Source-dev-landing-page
+> Run it locally using
 
-- click the green Code button, Under Local > Clone > HTTPS > link
-  copy the link (This is Forked Link)
+```
+npm start
+```
 
-- Open the Folder with Git Bash Here
+6. Make changes to the project.
+   E.g. Adding the URL of your GitHub Projects in the Skill Sections
 
-- Enter <code>**git clone --depth 1** (then paste the Forked link with right click)
+```
+- To ensure that your URLs are short, it is recommended to use **[bitly](https://bitly.com/)** for URL shortening.
+- Description should not exceed **10-12 words**
+```
 
-- Change the directory of git via <code>**cd** (Forked Repo Name)
+7. Add, Commit and push the project by creating a new branch using the following commands:
 
-- Now do <code>**git remote add upstream** (URL of the Main Project)
+> Set upstream command to create a PR
 
-> Main Project URL can be found on https://github.com/rohitranjan-2702/dev-landing-page
+```diff
+git remote add upstream https://github.com/rohitranjan-2702/dev-landing-page.git
+```
 
-- click the green Code button
+> Create a new branch
 
-- Under Local > Clone > HTTPS > link
+```diff
+git branch -M <your-name>
+```
 
-- copy the link (This is Main Link)
+> Add all files
 
-- Enter <code> **git remote add upstream** https://github.com/rohitranjan-2702/dev-landing-page.git
+```markdown
+git add .
+```
 
-- Next Enter <code>**git pull upstream master**
+> Commit the changes
 
-#### 1.3) Running the Project on your Local Machine
+```markdown
+git commit -m "Write Your commit Message"
+```
 
-- Go to the Folder where you have cloned the forked Repo, and open it with your favourite Code Editor - VS Code, atom
+> Push the branch
 
-- To run the React Project, one must install the required Node Modules /dependencies
-  To do that open **Terminal** in your Code Editor (Here VS Code)
+```markdown
+git push origin <branch-name>
+```
 
-- Enter <code>**npm install**</code> (Node.js must be installed on Your PC for this command to Run)
-  It will download the required Node Modules in a few seconds.
+8. Go to https://github.com/rohitranjan-2702/dev-landing-page where you will see a request to create a PR (Pull Request), add your comments and open the PR.
 
-- Then to run the Project Enter <code>**npm run dev**
+### NOTE
 
-- Click on the generated Local Link to run the Project
+- Make Sure you commit your changes in a new branch.
+- Make Sure you Give the proper name to your files describing the addition.
+- Also Make Sure you comment on your code wherever necessary.
 
-## 2) Making Changes to the Project
+<div align="center">
+Show some ❤️ by starring this awesome repository!
+</div>
 
-**NOTE :** For every group of changes, A contributor must create a new branch in order to contribute and help the Maintainers overview your work, and per pull request one issue or bug can be resolved
+## ✨ Contributors
 
-#### 2.1) Creating a New Branch
+[![All Contributors](https://img.shields.io/github/all-contributors/rohitranjan-2702/dev-landing-page?color=ee8449&style=flat-square)](#contributors)
