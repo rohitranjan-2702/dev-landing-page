@@ -20,7 +20,7 @@ const Project = () => {
       </header>
 
       <Skills/>
-      <div class='grid grid-cols-1 sm:grid-cols-2 m-10'>
+      <div class='grid grid-cols-1 sm:grid-cols-2 mx-10'>
       <ProjectCard/>
       <ProjectCard/>
       <ProjectCard/>
