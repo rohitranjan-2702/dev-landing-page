@@ -3,13 +3,6 @@ import { tag } from "../assets/tag";
 import { techstack } from "../data";
 
 function skills() {
-  // const [icon, setIcon] = useState("");
-
-  // useEffect(() => {
-  //   renderIcon();
-  // }, [icon]);
-
-  // ternary operator
 
   return (
     <>
